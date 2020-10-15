@@ -4,8 +4,8 @@ Added comment section
 
 
 */
-
+FIrst lline should be the version information
 Initial version of story.txt
-created a story.txt
+created lesson.txt
 
------------------------END---------------------
+-----------------------qwerwEND---------------------

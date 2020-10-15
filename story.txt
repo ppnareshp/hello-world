@@ -4,7 +4,9 @@ Added comment section
 
 
 */
-1324132432451
-created 123423412344 a story.txt
 
------------------------EwerweqqwerND---------------------
+FIrst lline should be the version information
+Initial version of story.txt
+created a story.txt
+
+-----------------------END---------------------

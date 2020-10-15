@@ -1,0 +1,2 @@
+Initial version of story.txt
+created a story.txt

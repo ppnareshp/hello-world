@@ -1,0 +1,3 @@
+Initial version of story1.txt
+created a file story1.txt 
+ END
